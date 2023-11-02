@@ -12,7 +12,7 @@ This reading group will meet weekly in 3120B Torgersen Hall every Thursday from 
 |----------|-------------|---------|-------|-----------|
 |10/19/2023|Trevor Norton|[Deep Unsupervised Machine Learning using Nonequilibrium Thermodynamics](./Papers/Sohl-Dickstein%20et%20al.%20-%202015%20-%20Deep%20Unsupervised%20Learning%20using%20Nonequilibrium%20Th.pdf) <br> [Denoising Diffusion Probabilistic Models](./Papers/Ho%20et%20al.%20-%202020%20-%20Denoising%20Diffusion%20Probabilistic%20Models.pdf)| [Slides](./Notes%20and%20Presentations/Week%201/Week1.pdf) | [Recording](https://virginiatech.zoom.us/rec/share/kXO_DSjH8CSWoQWPWzbczLPHY6409ZRihmAgaL40gzpArYONu-W7RCP8G-yrTmud.SYFCDucCGmziBNwf)
 |10/26/2023|Trevor Norton| [Generative Modeling by Estimating the Gradients of the Data Distribution](./Papers/Song%20and%20Ermon%20-%202019%20-%20Generative%20Modeling%20by%20Estimating%20Gradients%20of%20the.pdf) <br> [Score-based Generative Modeling through Stochastic Differential Equations](./Papers/Song%20et%20al.%20-%202020%20-%20Score-Based%20Generative%20Modeling%20through%20Stochastic.pdf)| [Slides](./Notes%20and%20Presentations/Week%202/Week2.pdf)
-|11/2/2023 | TBD | TBD | |
+|11/2/2023 | Nabayan Chaudhury | [Diffusion Probabilistic Modeling of Protein Backbones in 3D for the Motif-Scaffolding Problem](./Papers/Trippe%20et%20al.%20-%202023%20-%20Diffusion%20probabilistic%20modeling%20of%20protein%20backbo.pdf) | |
 |11/9/2023 | TBD | TBD | |
 |11/16/2023| TBD | TBD | |
 |11/30/2023| TBD | TBD | |
